@@ -3,5 +3,8 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"totvsLanguageServer.welcomePage": false
+	}
 }
