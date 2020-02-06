@@ -75,5 +75,5 @@
 	"tds.package.properties.webNavigator.description.web": "Navegador Web.",
 	"tds.package.configurationSnippets.description": "Una nueva configuraci�n para 'depurar' un usuario que seleccion� el archivo AdvPL.",
 	"tds.package.configurationSnippets.description.web": "Una nueva configuraci�n para 'depurar' un usuario que seleccion� el archivo AdvPL usando el SmartClient HTML.",
-	"tds.package.workspaceServerConfig": "Define si la configuración de los servidores estará en el workspace."
+	"tds.package.workspaceServerConfig": "Define si la configuraci�n de los servidores estar� en el workspace."
 }
